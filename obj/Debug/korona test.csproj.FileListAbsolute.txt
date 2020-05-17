@@ -1,0 +1,13 @@
+C:\Users\Tuana\source\repos\korona test\korona test\bin\Debug\korona test.exe.config
+C:\Users\Tuana\source\repos\korona test\korona test\bin\Debug\korona test.exe
+C:\Users\Tuana\source\repos\korona test\korona test\bin\Debug\korona test.pdb
+C:\Users\Tuana\source\repos\korona test\korona test\obj\Debug\korona test.csprojAssemblyReference.cache
+C:\Users\Tuana\source\repos\korona test\korona test\obj\Debug\korona_test.Form1.resources
+C:\Users\Tuana\source\repos\korona test\korona test\obj\Debug\korona_test.neyapmalı.resources
+C:\Users\Tuana\source\repos\korona test\korona test\obj\Debug\korona_test.Properties.Resources.resources
+C:\Users\Tuana\source\repos\korona test\korona test\obj\Debug\korona test.csproj.GenerateResource.cache
+C:\Users\Tuana\source\repos\korona test\korona test\obj\Debug\korona test.csproj.CoreCompileInputs.cache
+C:\Users\Tuana\source\repos\korona test\korona test\obj\Debug\korona test.exe
+C:\Users\Tuana\source\repos\korona test\korona test\obj\Debug\korona test.pdb
+C:\Users\Tuana\source\repos\korona test\korona test\obj\Debug\korona_test.hastaform.resources
+C:\Users\Tuana\source\repos\korona test\korona test\obj\Debug\korona_test.ekleform.resources
